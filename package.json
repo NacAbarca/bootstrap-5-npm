@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-5-npm",
+  "version": "1.0.0",
+  "description": "Admin Paneleria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NacAbarca/bootstrap-5-npm.git"
+  },
+  "author": "Nac Abarca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NacAbarca/bootstrap-5-npm/issues"
+  },
+  "homepage": "https://github.com/NacAbarca/bootstrap-5-npm#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
